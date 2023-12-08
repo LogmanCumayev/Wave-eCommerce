@@ -1,0 +1,243 @@
+/* Outlines */
+/* .productcard{
+    outline: 1px solid black;
+}
+.productcard-image{
+    outline: 1px solid black;
+}
+.productcard-info{
+    outline: 3px solid black;
+} */
+/* .productcard-content{
+    outline: 1px solid black;
+} */
+
+
+
+
+/* Card */
+.productLink{
+    text-decoration: none;
+}
+.CoverflowSlide .productcard {
+    margin: 10px;
+    width: 260px;
+    height: 375px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.4s;
+    background-color: white;
+}
+.productcard:hover{
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.503);
+    transition: all 0.4s;
+
+}
+
+/* Card image */
+.productcard-image {
+    width: 100%;
+    height: 220px;
+    object-fit: contain;
+    padding: 10px;
+}
+
+.productcard-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.productcard-icons{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon-share{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    color: var(--mainBlue);
+    border: none;
+    background-color: white;
+    position: relative;
+    z-index: 10;
+}
+.addFavoriteBtn,.deleteFavoriteBtn,.addCompareBtn,.deleteCompareBtn{
+    background: none;
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+    outline: none;
+    border: none;
+    color: var(--mainBlue);
+}
+
+
+
+
+
+
+
+/* ////Productcard-Info/// */
+.CoverflowSlide .productcard-info {
+    width: 100%;
+    height: 80px;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: start;
+}
+
+/* Title  */
+.productcard-title {
+    width: 100%;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--mainBlue);
+
+}
+
+.productcard-price {
+    width: 35%;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.shop-old-price-div{
+    width: fit-content;
+}
+.shop-old-price{
+    font-size: 14px;
+    color: gray;
+    text-decoration: line-through;
+}
+.shop-new-price-div{
+    width: fit-content;
+}
+.shop-new-price{
+    color: var(--mainDark);
+}
+
+.productcard-rating {
+    width: 65%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-right: 10px;
+}
+
+.fa-star {
+    color: var(--mainDark);
+    font-size: 15px;
+}
+
+
+
+/* Add to cart */
+.productcard-buy {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CoverflowSlide .CartBtn {
+    width: 140px;
+    height: 35px;
+    border-radius: 12px;
+    border: none;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition-duration: .5s;
+    overflow: hidden;
+    box-shadow: none;
+    position: relative;
+}
+
+.IconContainer {
+    position: absolute;
+    left: -50px;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    z-index: 2;
+    transition-duration: .5s;
+}
+
+.icon {
+    border-radius: 1px;
+}
+
+.productcard .text {
+    height: 100%;
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(17, 17, 17);
+    z-index: 1;
+    transition-duration: .5s;
+    font-size: 1.04em;
+    font-weight: 600;
+    color: black;
+}
+
+.CartBtn:hover .IconContainer {
+    transform: translateX(58px);
+    border-radius: 40px;
+    transition-duration: .5s;
+}
+
+.CartBtn:hover .text {
+    transform: translate(10px, 0px);
+    transition-duration: .5s;
+    margin-left: 5px;
+}
+
+.CartBtn:active {
+    transform: scale(0.95);
+    transition-duration: .5s;
+}
+
+
+
+
+
+/* ///HOVER/// */
+
+
+/* ////////////////Link tag css */
+.LinkTag{
+    text-decoration: none;
+}
+.link-div{
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    width: fit-content;
+    height: 25px;
+}
+
+
+.icon-scale .fa-scale-unbalanced-flip.disable{
+    color: rgb(156, 156, 156);
+}

@@ -1,0 +1,97 @@
+
+@media screen and (min-width:992px) and (max-width: 1200px) {
+    /* Background  */
+    .contact-section-svg {
+        width: 100% !important;
+        height: 100% !important;
+        scale: 1.35;
+    }
+}
+
+
+@media screen and (min-width:768px) and (max-width: 992px) {
+
+    /* Background  */
+    .contact-section-svg {
+        width: 100% !important;
+        height: 100% !important;
+        scale: 1.7;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width: 768px) {
+
+    /* Background  */
+    .contact-section-svg {
+        width: 100% !important;
+        scale: 2.3;
+    }
+    
+    /* First animation */
+    .first-animation-div {
+        width: 300px;
+        height: 300px;
+    }
+
+    .first-animation-div svg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    /* Second Animation */
+    .second-animation-div {
+        width: 500px;
+        height: 500px;
+    }
+
+    .second-animation-div svg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+    /* Feedback Container  */
+    .contact-container {
+        width:425px;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+
+    /* Background  */
+    .contact-section-svg {
+        width: 100% !important;
+        scale: 3.3;
+    }
+
+    /* First animation */
+    .first-animation-div {
+        width: 250px;
+        height: 250px;
+    }
+
+    .first-animation-div svg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    /* Second Animation */
+    .second-animation-div {
+        width: 450px;
+        height: 400px;
+    }
+
+    .second-animation-div svg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+    /* Feedback Container  */
+    .contact-container {
+        width: 375px;
+        height: 500px;
+    }
+    
+    
+}
+
+
+/* //////////////////////Section 2/////////////////////// */

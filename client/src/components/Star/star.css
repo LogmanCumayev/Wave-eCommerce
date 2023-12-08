@@ -1,0 +1,18 @@
+
+
+.star-icon{
+    color: var(--mainBlack);
+    font-size: 18px;
+    padding: 1px;
+}
+.star-icon-outline{
+    color: var(--mainBlack);
+    font-size: 18px;
+}
+
+.star-list{
+    width: fit-content;
+    height: 25px;
+    display: flex;
+    align-items: center;
+}

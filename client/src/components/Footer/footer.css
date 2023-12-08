@@ -1,0 +1,163 @@
+/* Footer */
+/* Outlines */
+
+.main-footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.footer-middle {
+    background: var(--mainLight);
+    padding-top: 5rem;
+    color: var(--mainDark);
+    width: 85%;
+    max-width: 1140px;
+}
+
+.footer-bottom {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* Icons hover */
+ul li::before {
+    content: ' ';
+    width: 100%;
+    height: 100%;
+
+}
+
+/* FontAwesome Icons css*/
+
+/* Instagram css and hover */
+.fa-instagram {
+    width:25px;
+    height: 25px;
+    color: var(--mainDark);
+}
+
+.fa-instagram:hover {
+    color: #bc1888;
+    transition: all 0.3s;
+}
+
+/* Twitter css and hover */
+.fa-telegram {
+    width:25px;
+    height: 25px;
+    color: var(--mainDark);
+}
+
+.fa-telegram:hover {
+    color: #1DA1F2;
+    transition: all 0.3s;
+}
+
+/* LinkedIn css and hover */
+.fa-youtube {
+    width:25px;
+    height: 25px;
+    color: var(--mainDark);
+}
+
+.fa-youtube:hover {
+    color: #FF0000;
+    transition: all 0.3s;
+}
+
+/* Facebook css and hover */
+.fa-facebook {
+    width:25px;
+    height: 25px;
+    color: var(--mainDark);
+}
+.fa-facebook:hover{
+    color: #0866FF;
+    transition: all 0.3s;
+}
+
+/* whatsapp css and hover */
+.fa-whatsapp {
+    width:25px;
+    height: 25px;
+    color: var(--mainDark);
+}
+.fa-whatsapp:hover {
+    color: #25D366;
+    transition: all 0.3s;
+}
+
+/* Tiktok css and hover */
+.fa-tiktok {
+    width:25px;
+    height: 25px;
+    transition: all 0.3s;
+    color: var(--mainDark);
+}
+.fa-tiktok:hover {
+    color: black;
+    transition: all 0.3s;
+
+}
+.footer-div{
+    display: flex;
+}
+.footer-head{
+    display: flex;
+    justify-content: start;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+.footer-contact{
+    display: flex;
+    justify-content: space-evenly;
+    width: 250px;
+    padding-left: 0 !important;
+}
+.company-number{
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--mainBlue);
+}
+.company-number a{
+    text-decoration: none;
+}
+.footer-content{
+    display:flex ;
+    flex-direction: column;
+    padding-left: 0;
+    
+}
+.footer-content a{
+    color: var(--mainDark);
+    text-decoration: none;
+    font-size: 15px;
+}
+.footer-content li:hover a{
+    text-decoration: underline;
+}
+.footer-content li{
+    margin-bottom: 10px;
+}
+
+
+.visa_mastercard{
+    width: fit-content;
+    height: auto;
+    display: flex;
+}
+.visa{
+    width: 40px;
+    height: 40px;
+}
+.master{
+    width: 40px;
+    height: 40px;
+}

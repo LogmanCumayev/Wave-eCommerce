@@ -1,0 +1,1862 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 14 Pro",
+            "description": "iPhone 14 Pro 6GB 128GB",
+            "price": 999,
+            "discountPercentage": 5,
+            "rating": 4.89,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://almali.store/wp-content/uploads/2022/09/596679-Product-0-I-637982213240520852_c62a1cc8-0428-4688-820a-4e78c61af142_540x540.webp",
+            "colors": {
+                "purple": "https://almali.store/wp-content/uploads/2022/09/596679-Product-0-I-637982213240520852_c62a1cc8-0428-4688-820a-4e78c61af142_540x540.webp",
+                "gold": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-gold?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840519",
+                "silver": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-silver?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840488",
+                "black": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1663703840510"
+            },
+            "details": {
+                "screen": "6.1inch OLED 120hz FHD+ ",
+                "camera": "12MP(front) / 48MP+12MP+12MP (back)",
+                "processor": "A16 Bionic Processor",
+                "CPU": "3.36 GHz",
+                "ram": "6GB RAM",
+                "storage": "128GB Internal Storage",
+                "battery_capacity": "Li-Ion 3200mAh battery",
+                "release_date": "2022 Sep"
+            }
+        },
+        {
+            "id": 2,
+            "title": "iPhone 14",
+            "description": "iPhone 14 8GB 256GB",
+            "price": 799,
+            "discountPercentage": 5,
+            "rating": 4.42,
+            "stock": 58,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://www.bakuelectronics.az/assets/images/products/118700/apple-iphone-14-blue-1.jpg",
+            "colors": {
+                "blue": "https://www.bakuelectronics.az/assets/images/products/118700/apple-iphone-14-blue-1.jpg",
+                "purple": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661027205808",
+                "white": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661027204398",
+                "black": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1661026579503"
+            },
+            "details": {
+                "screen": "6.1inch OLED 60hz FHD+ ",
+                "camera": "12MP(front) / 12MP+12MP (back)",
+                "processor": "A15 Bionic Processor",
+                "CPU": "3.36 GHz",
+                "ram": "6GB RAM",
+                "storage": "128GB Internal Storage",
+                "battery_capacity": "Li-Ion 3279mAh battery",
+                "release_date": "2022 Sep"
+            }
+        },
+        {
+            "id": 3,
+            "title": "iPhone 13 Pro",
+            "description": "iPhone 13 Pro 6GB 256GB",
+            "price": 753,
+            "discountPercentage": 5,
+            "rating": 4.57,
+            "stock": 75,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://www.apple.com/v/iphone-13-pro/g/images/overview/design/finishes_1_silver__bq1k26zoow02_large.jpg",
+            "colors": {
+                "silver": "https://www.apple.com/v/iphone-13-pro/g/images/overview/design/finishes_1_silver__bq1k26zoow02_large.jpg",
+                "gold": "https://www.apple.com/v/iphone-13-pro/g/images/overview/design/finishes_1_gold__crqf8jzxwr6u_large.jpg",
+                "blue": "https://www.apple.com/v/iphone-13-pro/g/images/overview/design/finishes_1_sierra_blue__cn414556pbv6_large.jpg",
+                "green": "https://www.apple.com/v/iphone-13-pro/g/images/overview/design/finishes_1_alpine_green__bxgqurawflau_large.jpg"
+            },
+            "details": {
+                "screen": "6.1inch OLED 120hz FHD+ ",
+                "camera": "12MP(front) / 12MP+12MP+12MP (back)",
+                "processor": "A15 Bionic Processor",
+                "CPU": "3.36 GHz",
+                "ram": "8GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Ion 3095mAh battery",
+                "release_date": "2021 Sep"
+            }
+        },
+        {
+            "id": 4,
+            "title": "iPhone 13",
+            "description": "Apple iPhone 13 6gb 256gb",
+            "price": 699,
+            "discountPercentage": 5,
+            "rating": 4.52,
+            "stock": 58,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://www.bakuelectronics.az/assets/images/products/99533/15727229.jpg",
+            "colors": {
+                "blue": "https://www.bakuelectronics.az/assets/images/products/99533/15727229.jpg",
+                "silver": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch-starlight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1656712888655",
+                "pink": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch-pink?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1657641867367",
+                "green": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-6-1inch-green?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1656712887888"
+            },
+            "details": {
+                "screen": "6.1inch OLED 60hz FHD+ ",
+                "camera": "12MP(front) / 12MP+12MP (back)",
+                "processor": "A15 Bionic Processor",
+                "ram": "6GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Ion 3227mAh battery",
+                "release_date": "2021 Sep"
+            }
+        },
+        {
+            "id": 5,
+            "title": "iPhone 12 Pro",
+            "description": "Apple iPhone 12 Pro 6gb 128gb",
+            "price": 899,
+            "discountPercentage": 25,
+            "rating": 4.41,
+            "stock": 62,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-blue-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202834000",
+            "colors": {
+                "blue": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-blue-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202834000",
+                "gold": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202844000",
+                "silver": "https://www.apple.com/shop/product/FGLR3LL/A/refurbished-iphone-12-pro-128gb-pacific-blue-unlocked",
+                "black": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-graphite-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202842000"
+            },
+            "details": {
+                "screen": "6.1inch OLED 60hz FHD+ ",
+                "camera": "12MP(front) / 12MP+12MP+12MP (back)",
+                "processor": "A14 Bionic Processor",
+                "CPU": "3.36 GHz",
+                "ram": "6GB RAM",
+                "storage": "128GB Internal Storage",
+                "battery_capacity": "Li-Ion 2815mAh battery",
+                "release_date": "2020 Oct"
+            }
+        },
+        {
+            "id": 6,
+            "title": "Galaxy S23 Ultra",
+            "description": "Samsung Galaxy S23 Ultra 12gb 512gb",
+            "price": 1379.99,
+            "discountPercentage": 5,
+            "rating": 4.8,
+            "stock": 79,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/Graphite/1.jpg?$product-details-jpg$",
+            "colors": {
+                "blue": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/SkyBlue/1.jpg?$product-details-jpg$",
+                "pink": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/lavender/01-DM3-Lavender-PDP-1600x1200.jpg?$product-details-jpg$",
+                "green": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/green/01-DM3-Green-PDP-1600x1200.jpg?$product-details-jpg$",
+                "black": "https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/Graphite/1.jpg?$product-details-jpg$"
+            },
+            "details": {
+                "screen": "6.8inch AMOLED 120hz QHD+ ",
+                "camera": "12MP(front) / 200MP+12MP+10MP+10MP (back)",
+                "processor": "Qualcomm Snapdragon 8 Gen 2 (SM8550-AB)",
+                "CPU": "3.36 GHz",
+                "ram": "12GB RAM",
+                "storage": "512GB Internal Storage",
+                "battery_capacity": "Li-Ion 5000mAh battery",
+                "release_date": "2023 Feb"
+            }
+        },
+        {
+            "id": 7,
+            "title": "Galaxy A53 5G",
+            "description": "Galaxy A53 5G",
+            "price": 649.99,
+            "discountPercentage": 5,
+            "rating": 4.1,
+            "stock": 57,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-galaxy-a53-5g-a536-sm-a536bzkneub-531492904?$1300_1038_PNG$",
+            "colors": {
+                "blue": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-galaxy-a53-5g-a536-sm-a536blbneub-531492884?$1300_1038_PNG$",
+                "gold": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-galaxy-a53-5g-a536-sm-a536bzoneub-531492924?$1300_1038_PNG$",
+                "white": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-galaxy-a53-5g-a536-sm-a536bzwneub-531492944?$1300_1038_PNG$",
+                "black": "https://images.samsung.com/is/image/samsung/p6pim/uk/2202/gallery/uk-galaxy-a53-5g-a536-sm-a536bzkneub-531492904?$1300_1038_PNG$"
+            },
+            "details": {
+                "screen": "6.5inch AMOLED 120hz FHD+ ",
+                "camera": "32MP(front) / 64MP+12MP+5MP+5MP (back)",
+                "processor": "Samsung Exynos 1280",
+                "CPU": "2.4 GHz",
+                "ram": "8GB RAM",
+                "storage": "128GB Internal Storage",
+                "battery_capacity": "Li-Ion 5000mAh battery",
+                "release_date": "2022 Mar"
+            }
+        },
+        {
+            "id": 8,
+            "title": "Galaxy Z Flip 5",
+            "description": "Galaxy Z Flip 5 8gb 256gb",
+            "price": 2300,
+            "discountPercentage": 5,
+            "rating": 4.07,
+            "stock": 47,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-flip5-f731-sm-f731bzagcau-537211763?$PD_GALLERY_PNG$",
+            "colors": {
+                "green": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-flip5-f731-sm-f731blggcau-537211721?$PD_GALLERY_PNG$",
+                "gold": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-flip5-f731-sm-f731bzegcau-537211784?$PD_GALLERY_PNG$",
+                "pink": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-flip5-f731-sm-f731bligcau-537211742?$PD_GALLERY_PNG$",
+                "black": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-flip5-f731-sm-f731bzagcau-537211763?$PD_GALLERY_PNG$"
+            },
+            "details": {
+                "screen": "6.7inch AMOLED 60hz FHD+ ",
+                "camera": "10MP(front) / 12MP+12MP (back)",
+                "processor": "Qualcomm Snapdragon 865+ (SM8250-AB)",
+                "CPU": "3.1 GHz",
+                "ram": "8GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Ion 3300mAh battery",
+                "release_date": "2020 Jul"
+            }
+        },
+        {
+            "id": 9,
+            "title": "Galaxy Z Fold5",
+            "description": "Galaxy Z Fold5",
+            "price": 1899.99,
+            "discountPercentage": 5,
+            "rating": 4.89,
+            "stock": 28,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-fold5-f946-466746-sm-f946bzkccau-537473205?$PD_GALLERY_PNG$",
+            "colors": {
+                "blue": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-fold5-f946-sm-f946blbbcau-537214117?$PD_GALLERY_PNG$",
+                "gold": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-fold5-f946-sm-f946bzebcau-537214138?$PD_GALLERY_PNG$",
+                "black": "https://images.samsung.com/is/image/samsung/p6pim/az/2307/gallery/az-galaxy-z-fold5-f946-466746-sm-f946bzkccau-537473205?$PD_GALLERY_PNG$"
+            },
+            "details": {
+                "screen": "6.2inch AMOLED 120hz HD+ ",
+                "camera": "10MP+4MP(front) / 50MP+12MP+10MP (back)",
+                "processor": "Qualcomm Snapdragon 8 Gen 2 (SM8550-AB)",
+                "CPU": "3.2 GHz",
+                "ram": "12GB RAM",
+                "storage": "1TB Internal Storage",
+                "battery_capacity": "Li-Po 4400mAh battery",
+                "release_date": "2023 Jul"
+            }
+        },
+        {
+            "id": 10,
+            "title": "Xiaomi 13",
+            "description": "Xiaomi 13 5G 12GB 256GB",
+            "price": 867.99,
+            "discountPercentage": 5,
+            "rating": 4.68,
+            "stock": 74,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "thumbnail": "https://qiymeti.net/wp-content/uploads/xiaomi-13-qiymeti.jpg",
+            "colors": {
+                "white": "https://cdn.akakce.com/z/xiaomi/xiaomi-13-256-gb-beyaz.jpg",
+                "green": "https://cdn.akakce.com/z/xiaomi/xiaomi-13.jpg",
+                "black": "https://qiymeti.net/wp-content/uploads/xiaomi-13-qiymeti.jpg"
+            },
+            "details": {
+                "screen": "6.36inch AMOLED 120hz FHD+ ",
+                "camera": "12MP(front) / 50MP+12MP+10MP (back)",
+                "processor": "Qualcomm Snapdragon 8 Gen 2 (SM8550-AB)",
+                "CPU": "3.2 GHz",
+                "ram": "12GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Po 4500mAh battery",
+                "release_date": "2022 Dec"
+            }
+        },
+        {
+            "id": 11,
+            "title": "Redmi Note 12 Pro",
+            "description": "Xiaomi Redmi Note 12 Pro 8GB 256 GB ",
+            "price": 605.99,
+            "discountPercentage": 5,
+            "rating": 4.2,
+            "stock": 48,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "thumbnail": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-note-12-pro-5g-256-gb-siyah.jpg",
+            "colors": {
+                "blue": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-note-12-pro-5g-256-gb-mavi.jpg",
+                "white": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-note-12-pro-5g-256-gb-mor.jpg",
+                "purple": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-note-12-pro-5g-256-gb-mor.jpg",
+                "black": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-note-12-pro-5g-256-gb-siyah.jpg"
+            },
+            "details": {
+                "screen": "6.67inch AMOLED 120hz FHD+ ",
+                "camera": "16MP(front) / 108MP+8MP+2MP+4MP (back)",
+                "processor": "Qualcomm Snapdragon 732G (SM7150-AC)",
+                "CPU": "2.3 GHz",
+                "ram": "8GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Po 5000mAh battery",
+                "release_date": "2023 Apr"
+            }
+        },
+        {
+            "id": 12,
+            "title": "Poco X4 Pro   ",
+            "description": "Poco X4 Pro 256 GB",
+            "price": 289.25,
+            "discountPercentage": 5,
+            "rating": 3.5,
+            "stock": 28,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "thumbnail": "https://cdn.akakce.com/z/poco/poco-x4-pro-256-gb.jpg",
+            "colors": {
+                "blue": "https://cdn.akakce.com/z/poco/poco-x4-pro-256-gb-mavi.jpg",
+                "yellow": "https://cdn.akakce.com/z/poco/poco-x4-pro-256-gb-sari.jpg",
+                "black": "https://cdn.akakce.com/z/poco/poco-x4-pro-256-gb.jpg"
+            },
+            "details": {
+                "screen": "6.67inch AMOLED 120hz FHD+ ",
+                "camera": "16MP(front) / 108MP+8MP+2MP (back)",
+                "processor": "Qualcomm Snapdragon 695 (SM6375)",
+                "CPU": "2.2 GHz",
+                "ram": "8GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Po 5000mAh battery",
+                "release_date": "2022 Feb"
+            }
+        },
+        {
+            "id": 13,
+            "title": " Poco F4",
+            "description": " Xiaomi Poco F4 256 GB",
+            "price": 509.99,
+            "discountPercentage": 5,
+            "rating": 4.0,
+            "stock": 10,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "thumbnail": "https://cdn.akakce.com/z/poco/poco-f4.jpg",
+            "colors": {
+                "black": "https://cdn.akakce.com/z/poco/poco-f4.jpg"
+            },
+            "details": {
+                "screen": "6.67inch AMOLED 120hz FHD+ ",
+                "camera": "20MP(front) / 64MP+8MP+2MP (back)",
+                "processor": "Qualcomm Snapdragon 870 (SM8250-AC)",
+                "CPU": "3.2 GHz",
+                "ram": "8GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Po 4500mAh battery",
+                "release_date": "2022 Jun"
+            }
+        },
+        {
+            "id": 14,
+            "title": "iPad Pro 11",
+            "description": "Apple iPad Pro 11 16GB 2048GB",
+            "price": 1899.99,
+            "discountPercentage": 5,
+            "rating": 4.89,
+            "stock": 30,
+            "brand": "Apple",
+            "category": "tablet",
+            "thumbnail": "https://cdn1.it4profit.com/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/221019084029879055/221019140056714416.png@webp",
+            "colors": {
+                "silver": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-silver-wifi?wid=2560&hei=1440&fmt=jpeg&qlt=95&.v=1670865883523",
+                "gray": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray-wifi?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1670865951347"
+            },
+            "details": {
+                "screen": "11inch IPS 120hz 2388 x 1668 Px ",
+                "camera": "12MP(front) / 12MP+10Mp (back)",
+                "processor": "Apple M2 chip iPadOS 16",
+                "CPU": "3.48 GHz",
+                "ram": "16GB RAM",
+                "storage": "2048GB Internal Storage",
+                "battery_capacity": "Li-Po 7538mAh battery",
+                "release_date": "2022 Oct"
+            }
+        },
+        {
+            "id": 15,
+            "title": "Galaxy Tab S8 Ultra",
+            "description": "Galaxy Tab S8 Ultra",
+            "price": 799.99,
+            "discountPercentage": 5,
+            "rating": 3.6,
+            "stock": 35,
+            "brand": "Samsung",
+            "category": "tablet",
+            "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/tr/sm-x900nzaetur/gallery/tr-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaetur-534178512?$1300_1038_PNG$",
+            "colors": {
+                "black": "https://images.samsung.com/is/image/samsung/p6pim/tr/sm-x900nzaetur/gallery/tr-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaetur-534178512?$1300_1038_PNG$"
+            },
+            "details": {
+                "screen": "12.4inch AMOLED 120hz FHD+ ",
+                "camera": "12MP(front) / 13MP+6MP (back)",
+                "processor": "Qualcomm Snapdragon 8 Gen 1 (SM8450)",
+                "CPU": "3.00 GHz",
+                "ram": "8GB RAM",
+                "storage": "128GB Internal Storage",
+                "battery_capacity": "Li-Po 10090mAh battery",
+                "release_date": "2022 Apr"
+            }
+        },
+        {
+            "id": 16,
+            "title": "Redmi Pad 6",
+            "description": "Xiaomi Redmi Pad 6 6GB 128 GB",
+            "price": 615,
+            "discountPercentage": 5,
+            "rating": 3.8,
+            "stock": 41,
+            "brand": "Xiaomi",
+            "category": "tablet",
+            "thumbnail": "https://almali.store/wp-content/uploads/2022/10/planshet-xiaomi-redmi-pad-6-6-128gb-gray-1.jpg",
+            "colors": {
+                "silver": "https://almali.store/wp-content/uploads/2022/10/planshet-xiaomi-redmi-pad-6-6-128gb-gray-1.jpg"
+            },
+            "details": {
+                "screen": "11.0inch IPS LCD 144hz QHD+ ",
+                "camera": "8MP(front) / 13MP (back)",
+                "processor": "Qualcomm Snapdragon 870 (SM8250-AC)",
+                "CPU": "3.2 GHz",
+                "ram": "8GB RAM",
+                "storage": "256GB Internal Storage",
+                "battery_capacity": "Li-Po 8840mAh battery",
+                "release_date": "2023 Apr"
+            }
+        },
+        {
+            "id": 17,
+            "title": "Apple Watch 8",
+            "description": "Apple Watch 8",
+            "price": 399,
+            "discountPercentage": 20,
+            "rating": 4.1,
+            "stock": 18,
+            "brand": "Apple",
+            "category": "smartwatch",
+            "thumbnail": "https://cdn.irshad.az/products/80236/aw841-midnight.jpg?width=371,height=476",
+            "colors": {
+                "black": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s8-case-select-202307-aluminum-midnight?wid=2560&hei=1640&fmt=p-jpg&qlt=80&.v=K3p0dWNZR0FuUTI4Vm1JMHI3U1VTOHZRbHU3VGJ0NlN1SEYrZHlmamthdm1Ea05wWFJSbTdScUtBd1pkWCtrQ0hhM2J3cllhUC90ek03RkNCdE1YVjBwUXBKSm5JTEZ3bmFCZ2s4QnRiQ083UGc0d2FzUlA1ekZieTBjWkN4TmU",
+                "silver": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s8-case-select-202307-aluminum-silver?wid=2560&hei=1640&fmt=p-jpg&qlt=80&.v=K3p0dWNZR0FuUTI4Vm1JMHI3U1VTMWN0ODZxUjB3dDRVamkxZGNCMFlnSFVuK1kzWjhFbFZZazJrN3BDS3hvbkxwUEFDQTJ6Ly9qRy9QTFlkMyt4aUdBeVJRbzY0bXU2bTZLbisyaGRyTzNyelVkMkExQjBCSTVvUWFkOWFCaWc",
+                "gold": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s8-case-select-202307-aluminum-starlight?wid=2560&hei=1640&fmt=p-jpg&qlt=80&.v=K3p0dWNZR0FuUTI4Vm1JMHI3U1VTMWN0ODZxUjB3dDRVamkxZGNCMFlnSFBTRkJLM1ZEZml1cHlJSzgyNEVOWnhCSUFKaXhLMVVPaDljRU9FM2Q5TS9XdlJRYjdSZWJHVUh4aFVDb0hhVVZ2ZzlyRFV6bEkyeXZ1V2dKZklmR1Y",
+                "red": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/s8-case-select-202307-aluminum-product-red?wid=2560&hei=1640&fmt=p-jpg&qlt=80&.v=K3p0dWNZR0FuUTI4Vm1JMHI3U1VTNHNnTGpaL0pwVEp1SHM1NHVSY0xHREVYczVKNnAzM0F6Z3h6MmhuejB6TVd4R0ZTRmQxQ1J5dzh6SHJ5MjNlUzYwekI5ZWpRa0o2WWdVYzdzTUdBdFcrR25kY0wzZVdtN0U0N1AwbzFIMjU"
+            },
+            "details": {
+                "screen": "1.9inch LTPO OLED ",
+                "processor": "Apple S8",
+                "storage": "32GB",
+                "battery_capacity": "Li-Ion 45min~80%",
+                "other": "Accelerometer,Gyroscop,AmbientLightSensor",
+                "release_date": "2022"
+            }
+        },
+        {
+            "id": 18,
+            "title": " vívoactive® 4",
+            "description": "Garmin vívoactive® 4",
+            "price": 179.99,
+            "discountPercentage": 20,
+            "rating": 3.6,
+            "stock": 12,
+            "brand": "Garmin",
+            "category": "smartwatch",
+            "thumbnail": "https://www.garmin.com.tr/images/thumbs/0004178_vivoactive-4-siyah.png",
+            "colors": {
+                "black": "https://www.garmin.com.tr/images/thumbs/0004178_vivoactive-4-siyah.png"
+            },
+            "details": {
+                "screen": "41mm LTPO OLED ",
+                "battery_capacity": "Li-Po 400mAh",
+                "other": "Accelerometer,Gyroscop,AmbientLightSensor",
+                "release_date": "2019"
+            }
+        },
+        {
+            "id": 19,
+            "title": "Smart Band 7 Pro",
+            "description": "Xiaomi Smart Band 7 Pro",
+            "price": 90,
+            "discountPercentage": 20,
+            "rating": 4.1,
+            "stock": 24,
+            "brand": "Xiaomi",
+            "category": "smartwatch",
+            "thumbnail": "https://cdn.akakce.com/z/xiaomi/xiaomi-mi-band-7-pro.jpg",
+            "colors": {
+                "black": "https://cdn.akakce.com/z/xiaomi/xiaomi-mi-band-7-pro.jpg",
+                "white": "https://cdn.akakce.com/z/xiaomi/xiaomi-smart-band-7-pro-beyaz.jpg"
+            },
+            "details": {
+                "screen": "1.64inch AMOLED ",
+                "battery_capacity": "235mAh",
+                "other": "Accelerometer,Gyroscop,AmbientLightSensor",
+                "release_date": "2022"
+            }
+        },
+        {
+            "id": 20,
+            "title": "AirPods Pro",
+            "description": "Apple AirPods Pro",
+            "price": 249,
+            "discountPercentage": 5,
+            "rating": 4.1,
+            "stock": 24,
+            "brand": "Apple",
+            "category": "headphone",
+            "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660803972361",
+            "colors": {
+                "white": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1660803972361"
+            },
+            "details": {
+                "bluetooth": "5.0 Apple H1 AAC SBC",
+                "audio": "stereo",
+                "other": "IPX4_Water,ENC,4 microphone",
+                "release_date": "2022 Sep"
+            }
+        },
+        {
+            "id": 21,
+            "title": "Galaxy Buds 2",
+            "description": "Samsung Galaxy Buds 2",
+            "price": 149.99,
+            "discountPercentage": 5,
+            "rating": 3.9,
+            "stock": 34,
+            "brand": "Samsung",
+            "category": "headphone",
+            "thumbnail": "https://image-us.samsung.com/SamsungUS/home/easy-asset/05172022/SDSAC-4253-Buds2_Lavender-03-PDP-GALLERY-TV-1600x1200.jpg?$product-details-blur-jpg$",
+            "colors": {
+                "pink": "https://image-us.samsung.com/SamsungUS/home/easy-asset/05172022/SDSAC-4253-Buds2_Lavender-03-PDP-GALLERY-TV-1600x1200.jpg?$product-details-blur-jpg$",
+                "black": "https://image-us.samsung.com/SamsungUS/home/easy-asset/05172022/SDSAC-4253-Buds2_Graphite-03-PDP-GALLERY-TV-1600x1200.jpg?$product-details-blur-jpg$",
+                "white": "https://image-us.samsung.com/SamsungUS/home/easy-asset/05172022/SDSAC-4253-Buds2_White-03-PDP-GALLERY-TV-1600x1200.jpg?$product-details-blur-jpg$",
+                "green": "https://image-us.samsung.com/SamsungUS/home/easy-asset/05172022/SDSAC-4253-Buds2_Olive-03-PDP-GALLERY-TV-1600x1200.jpg?$product-details-blur-jpg$"
+            },
+            "details": {
+                "bluetooth": "5.2 A2DP AVRCP HFP AAC SBC",
+                "audio": "stereo",
+                "other": "IPX2_Water,ENC,6 microphone",
+                "release_date": "2022 Sep"
+            }
+        },
+        {
+            "id": 22,
+            "title": "Redmi Buds 3 Pro",
+            "description": "Xiaomi Redmi Buds 3 Pro",
+            "price": 49.99,
+            "discountPercentage": 5,
+            "rating": 3.4,
+            "stock": 65,
+            "brand": "Xiaomi",
+            "category": "headphone",
+            "thumbnail": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-buds-3-pro-kulak-ici.jpg",
+            "colors": {
+                "black": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-buds-3-pro-kulak-ici.jpg",
+                "silver": "https://cdn.akakce.com/z/xiaomi/xiaomi-redmi-buds-3-pro-kulak-ici.jpg"
+            },
+            "details": {
+                "bluetooth": "5.2 A2DP AVRCP AAC SBC",
+                "audio": "stereo",
+                "other": "IPX4_Water,ENC,4 microphone",
+                "release_date": "2022 Jun"
+            }
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "usersPost": [
+                {
+                    "userId": 1,
+                    "username": "eburras1q",
+                    "body": "This phone is great",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-18",
+                    "like": 15,
+                    "dislike": 5,
+                    "isUseranswer": [
+                        {
+                            "userId": 3,
+                            "username": "techGuru77",
+                            "body": "Exactly",
+                            "like":3,
+                            "dislike":0
+                        },
+                        {
+                            "userId":111,
+                            "username":"testUser111",
+                            "body":"I love this phone but it is so expensive :(",
+                            "like":12,
+                            "dislike":4
+                        }
+                    ]
+                },
+                {
+                    "userId": 2,
+                    "username": "iphoneFanatic23",
+                    "body": "I can't wait to get my hands on the iPhone 14 Pro!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 3,
+                    "username": "techGuru77",
+                    "body": "The camera features on the iPhone 14 Pro are simply amazing!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 4,
+                    "username": "mobileGeek555",
+                    "body": "The battery life of the iPhone 14 Pro is outstanding.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 5,
+                    "username": "gadgetEnthusiast",
+                    "body": "I'm saving up to buy the iPhone 14 Pro. It's worth every penny!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "usersPost": [
+                {
+                    "userId": 6,
+                    "username": "iphoneLover2023",
+                    "body": "I'm eagerly waiting for the release of the iPhone 14!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 7,
+                    "username": "techEnthusiastXYZ",
+                    "body": "The rumors about the iPhone 14 have me excited. Can't wait to see what's new.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 8,
+                    "username": "gadgetGeek789",
+                    "body": "I wonder how the iPhone 14 will compare to the iPhone 13 Pro.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 9,
+                    "username": "iphoneUpgrade23",
+                    "body": "I'm due for an upgrade soon, and the iPhone 14 might be it!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 10,
+                    "username": "mobilePhotographer",
+                    "body": "The camera on the iPhone 14 is said to be a game-changer for photographers.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "usersPost": [
+                {
+                    "userId": 11,
+                    "username": "iphoneFanatic77",
+                    "body": "I'm still amazed by the camera features on the iPhone 13 Pro.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 12,
+                    "username": "techGuru99",
+                    "body": "The iPhone 13 Pro is a masterpiece of technology.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 13,
+                    "username": "gadgetLover2023",
+                    "body": "I'm loving the performance of my iPhone 13 Pro.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 14,
+                    "username": "iphoneUser456",
+                    "body": "The battery life on the iPhone 13 Pro is impressive.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 15,
+                    "username": "iosDeveloperPro",
+                    "body": "Developing apps for the iPhone 13 Pro is a breeze.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "usersPost": [
+                {
+                    "userId": 16,
+                    "username": "iphoneEnthusiast123",
+                    "body": "The iPhone 13 is an excellent choice for those on a budget.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 17,
+                    "username": "budgetTechie22",
+                    "body": "I'm amazed by what the iPhone 13 offers at its price point.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 18,
+                    "username": "iosLover2023",
+                    "body": "The iOS experience on the iPhone 13 is top-notch.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 19,
+                    "username": "iphoneUpgrade2023",
+                    "body": "I'm considering upgrading to the iPhone 13 for its camera.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 20,
+                    "username": "smartphoneShopper",
+                    "body": "The iPhone 13 offers great value for the money.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "usersPost": [
+                {
+                    "userId": 21,
+                    "username": "iphone12ProUser",
+                    "body": "I'm still loving my iPhone 12 Pro. It's a classic!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 22,
+                    "username": "techSavvy2023",
+                    "body": "The design of the iPhone 12 Pro is timeless.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 23,
+                    "username": "gadgetCollector2023",
+                    "body": "The camera quality on the iPhone 12 Pro is impressive.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 24,
+                    "username": "iphoneUser789",
+                    "body": "I'm waiting to see what the iPhone 14 has to offer.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 25,
+                    "username": "iosDeveloperX",
+                    "body": "Developing on the iPhone 12 Pro has been a great experience.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "usersPost": [
+                {
+                    "userId": 26,
+                    "username": "samsungFanatic123",
+                    "body": "I'm eagerly waiting for the release of the Galaxy S23 Ultra!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 27,
+                    "username": "androidGeek2023",
+                    "body": "The rumors about the Galaxy S23 Ultra have my attention.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 28,
+                    "username": "gizmoWizard123",
+                    "body": "Samsung always brings innovation to their flagship phones.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 29,
+                    "username": "mobilePhotographer2023",
+                    "body": "I'm excited to see what the camera on the Galaxy S23 Ultra can do.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 30,
+                    "username": "samsungLoyalist",
+                    "body": "I've been loyal to Samsung for years. The S23 Ultra is my next choice.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "usersPost": [
+                {
+                    "userId": 31,
+                    "username": "samsungFanatic123",
+                    "body": "I'm eagerly waiting for the release of the Galaxy A53 5G!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 32,
+                    "username": "androidEnthusiastXYZ",
+                    "body": "The Galaxy A53 5G is expected to offer great value for its price.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 33,
+                    "username": "gadgetGeek789",
+                    "body": "I wonder how the camera on the Galaxy A53 5G will perform.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 34,
+                    "username": "samsungUpgrade23",
+                    "body": "I'm considering upgrading to the Galaxy A53 5G. It looks promising!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 35,
+                    "username": "mobilePhotographer",
+                    "body": "The camera improvements on smartphones like the Galaxy A53 5G are exciting.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "usersPost": [
+                {
+                    "userId": 36,
+                    "username": "samsungZFlipFan123",
+                    "body": "I'm a fan of the unique design of the Galaxy Z Flip 5.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 37,
+                    "username": "androidInnovator99",
+                    "body": "The Galaxy Z Flip 5's foldable screen technology is intriguing.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 38,
+                    "username": "gizmoLover2023",
+                    "body": "I'm eagerly waiting to get my hands on the Galaxy Z Flip 5.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 39,
+                    "username": "samsungFoldUser456",
+                    "body": "The concept of foldable phones like the Galaxy Z Flip 5 is revolutionary.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 40,
+                    "username": "androidDeveloperPro",
+                    "body": "Developing for foldable devices like the Galaxy Z Flip 5 is a unique challenge.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "usersPost": [
+                {
+                    "userId": 41,
+                    "username": "samsungZFoldFanatic",
+                    "body": "The Galaxy Z Fold5 is the future of smartphones!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 42,
+                    "username": "techSavvy2023",
+                    "body": "The potential of foldable phones like the Galaxy Z Fold5 is limitless.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 43,
+                    "username": "gadgetCollector2023",
+                    "body": "I'm excited to see how the Galaxy Z Fold5 will change the industry.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 44,
+                    "username": "samsungZFoldUser789",
+                    "body": "The Galaxy Z Fold5 is a device for innovators and early adopters.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 45,
+                    "username": "androidFoldDevPro",
+                    "body": "Developing for foldable devices like the Galaxy Z Fold5 is a new frontier.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "usersPost": [
+                {
+                    "userId": 46,
+                    "username": "xiaomiFanatic2023",
+                    "body": "I'm eagerly awaiting the release of the Xiaomi 13!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 47,
+                    "username": "miPhoneEnthusiast",
+                    "body": "Xiaomi devices always offer great value for money.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 48,
+                    "username": "gizmoLoverXiaomi",
+                    "body": "I wonder what innovative features Xiaomi 13 will bring to the table.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 49,
+                    "username": "xiaomiUser456",
+                    "body": "Xiaomi 13 might be my next upgrade. Exciting times!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 50,
+                    "username": "xiaomiDevPro",
+                    "body": "Developing for Xiaomi devices is always a rewarding experience.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "usersPost": [
+                {
+                    "userId": 51,
+                    "username": "redmiNoteFan123",
+                    "body": "The Redmi Note 12 Pro's camera improvements are making it a top choice.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 52,
+                    "username": "androidPhotographer",
+                    "body": "I'm considering the Redmi Note 12 Pro for mobile photography.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 53,
+                    "username": "gizmoLoverXiaomi",
+                    "body": "Xiaomi's Redmi series has some great value-for-money options.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 54,
+                    "username": "budgetShopperXiaomi",
+                    "body": "Redmi Note 12 Pro seems like a budget-friendly gem.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 55,
+                    "username": "redmiNoteUser",
+                    "body": "Upgrading to the Redmi Note 12 Pro is a no-brainer.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "usersPost": [
+                {
+                    "userId": 56,
+                    "username": "pocoX4ProFan",
+                    "body": "Poco X4 Pro's performance is rumored to be top-notch!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 57,
+                    "username": "androidEnthusiastPoco",
+                    "body": "Poco phones always offer great value, and the X4 Pro should be no different.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 58,
+                    "username": "gadgetGeekPoco",
+                    "body": "I'm eagerly waiting for Poco X4 Pro's official announcement.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 59,
+                    "username": "pocoUser",
+                    "body": "Poco X4 Pro might be the best mid-range phone of the year!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 60,
+                    "username": "pocoFanatic",
+                    "body": "I've been a Poco fan since the beginning, and the X4 Pro is on my radar.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "usersPost": [
+                {
+                    "userId": 61,
+                    "username": "pocoF4Enthusiast",
+                    "body": "Poco F4 is rumored to be a flagship killer. Can't wait to see the specs.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 62,
+                    "username": "techSavvyPoco",
+                    "body": "Poco F4 might be the surprise hit of the year.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 63,
+                    "username": "gadgetCollectorPoco",
+                    "body": "I collect Poco phones, and the F4 is definitely on my list.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 64,
+                    "username": "pocoLoyalist",
+                    "body": "I've owned every Poco phone, and the F4 will be no exception.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 65,
+                    "username": "pocoDevPro",
+                    "body": "Developing for Poco devices is always a rewarding experience.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "usersPost": [
+                {
+                    "userId": 66,
+                    "username": "gadgetLover2023",
+                    "body": "I'm loving my iPad Pro 11 for both work and play. It's incredibly versatile!",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 67,
+                    "username": "iosLover2023",
+                    "body": "The iOS experience on the iPad Pro 11 is unmatched.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 68,
+                    "username": "creativePro",
+                    "body": "As a creative professional, the iPad Pro 11 is my go-to device.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 69,
+                    "username": "ipadUser456",
+                    "body": "The performance of the iPad Pro 11 is blazing fast.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 70,
+                    "username": "iosDeveloperX",
+                    "body": "Developing apps for the iPad Pro is a seamless experience.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "usersPost": [
+                {
+                    "userId": 71,
+                    "username": "tabletEnthusiast123",
+                    "body": "I can't wait to get my hands on the Galaxy Tab S8 Ultra. Samsung always delivers.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 72,
+                    "username": "androidFanatic99",
+                    "body": "Samsung's Galaxy Tab S8 Ultra is expected to set a new standard in tablets.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 73,
+                    "username": "tabletGizmoCollector",
+                    "body": "The features rumored for the Galaxy Tab S8 Ultra are impressive.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 74,
+                    "username": "samsungTabletUser789",
+                    "body": "I'm looking forward to the release of the Galaxy Tab S8 Ultra.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 75,
+                    "username": "tabletAppDeveloper",
+                    "body": "Developing for Samsung tablets like the Tab S8 Ultra is exciting.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "usersPost": [
+                {
+                    "userId": 76,
+                    "username": "redmiPadFan123",
+                    "body": "Redmi Pad 6 is a budget-friendly tablet with great potential.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 77,
+                    "username": "androidTabletEnthusiast",
+                    "body": "I'm curious to see how Redmi Pad 6 performs in real-world usage.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 78,
+                    "username": "tabletGizmoLover",
+                    "body": "Xiaomi's Redmi Pad series has been impressive so far.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 79,
+                    "username": "budgetTabletShopper",
+                    "body": "Redmi Pad 6 seems like a fantastic value for the money.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 80,
+                    "username": "redmiPadUser",
+                    "body": "Considering Redmi Pad 6 as my next tablet.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "usersPost": [
+                {
+                    "userId": 81,
+                    "username": "appleWatchFanatic",
+                    "body": "Apple Watch 8 is expected to bring exciting health and fitness features.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 82,
+                    "username": "fitnessEnthusiast",
+                    "body": "I'm a fitness enthusiast, and the Apple Watch 8 is on my wishlist.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 83,
+                    "username": "gadgetLoverApple",
+                    "body": "Apple's innovation in wearables always fascinates me.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 84,
+                    "username": "watchCollector",
+                    "body": "I collect smartwatches, and the Apple Watch 8 is a must-have.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 85,
+                    "username": "healthTechDev",
+                    "body": "Developing health apps for wearables like the Apple Watch 8 is challenging and rewarding.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "usersPost": [
+                {
+                    "userId": 86,
+                    "username": "garminFanatic123",
+                    "body": "Garmin vívoactive® 4 is a great fitness companion for outdoor enthusiasts.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 87,
+                    "username": "outdoorLover99",
+                    "body": "The Garmin vívoactive® 4 has all the features I need for my outdoor adventures.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 88,
+                    "username": "fitnessTechGuru",
+                    "body": "Garmin vívoactive® 4 is known for its accurate fitness tracking. It's my go-to.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 89,
+                    "username": "healthAndFitnessPro",
+                    "body": "I recommend the Garmin vívoactive® 4 to all my clients for their workouts.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 90,
+                    "username": "garminDevPro",
+                    "body": "Developing apps for Garmin devices like the vívoactive® 4 is a niche but rewarding field.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "usersPost": [
+                {
+                    "userId": 91,
+                    "username": "smartBandEnthusiast",
+                    "body": "The Smart Band 7 Pro offers great value with its features and affordability.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 92,
+                    "username": "healthAndWellnessTech",
+                    "body": "Smart bands like the 7 Pro are helping people lead healthier lives.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 93,
+                    "username": "gadgetLover2023",
+                    "body": "I'm impressed by the functionality packed into the Smart Band 7 Pro.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 94,
+                    "username": "fitnessTrackerUser456",
+                    "body": "The Smart Band 7 Pro is my constant companion for tracking my workouts.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 95,
+                    "username": "smartBandDevPro",
+                    "body": "Developing apps for smart bands like the 7 Pro is a growing field.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "usersPost": [
+                {
+                    "userId": 96,
+                    "username": "audioEnthusiast",
+                    "body": "AirPods Pro deliver an exceptional audio experience with noise cancellation.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 97,
+                    "username": "appleFanatic2023",
+                    "body": "I can't go anywhere without my AirPods Pro. They're a game-changer.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 98,
+                    "username": "gadgetGeek789",
+                    "body": "The convenience of AirPods Pro makes them my favorite audio accessory.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 99,
+                    "username": "musicLover456",
+                    "body": "AirPods Pro take my music listening to a whole new level.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 100,
+                    "username": "audioAppDevPro",
+                    "body": "Developing audio apps for AirPods Pro is an exciting challenge.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "usersPost": [
+                {
+                    "userId": 101,
+                    "username": "galaxyBudsFan123",
+                    "body": "Galaxy Buds 2 offer a great balance of audio quality and price.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 102,
+                    "username": "androidAudioEnthusiast",
+                    "body": "I'm impressed by the sound quality of Galaxy Buds 2.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2
+                },
+                {
+                    "userId": 103,
+                    "username": "gizmoLover2023",
+                    "body": "Samsung's Galaxy Buds 2 are a worthy competitor in the audio market.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-09-13",
+                    "like": 27,
+                    "dislike": 2,
+                    "isUseranswer": [
+                        {
+                            "userId":112,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 104,
+                    "username": "musicListener789",
+                    "body": "Galaxy Buds 2 are my go-to earbuds for a seamless audio experience.",
+                    "userRating": 4.5,
+                    "createdAt": "2022-12-1",
+                    "like":20 ,
+                    "dislike": 15
+                },
+                {
+                    "userId": 105,
+                    "username": "audioAppDeveloper",
+                    "body": "Developing audio apps for Galaxy Buds 2 is an exciting opportunity.",
+                    "userRating": 3.5,
+                    "createdAt": "2023-10-10",
+                    "like": 35,
+                    "dislike": 12
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "usersPost": [
+                {
+                    "userId": 106,
+                    "username": "audioEnthusiast2023",
+                    "body": "Redmi Buds 3 Pro offer impressive sound quality for their price.",
+                    "userRating": 5.0,
+                    "createdAt": "2023-06-17",
+                    "like": 21,
+                    "dislike": 4
+                },
+                {
+                    "userId": 107,
+                    "username": "budgetAudioLover",
+                    "body": "I'm using Redmi Buds 3 Pro daily, and they've exceeded my expectations.",
+                    "userRating": 4,
+                    "createdAt": "2023-07-23",
+                    "like": 14,
+                    "dislike": 7
+                },
+                {
+                    "userId": 108,
+                    "username": "gizmoCollector",
+                    "body": "Redmi Buds 3 Pro are a valuable addition to my gadget collection.",
+                    "userRating": 4,
+                    "createdAt": "2023-01-12",
+                    "like": 25,
+                    "dislike": 7,
+                    "isUseranswer": [
+                        {
+                            "userId":113,
+                            "username": "pirateKing",
+                            "body": "I also",
+                            "like":12,
+                            "dislike":5
+                        }
+                    ]
+                },
+                {
+                    "userId": 109,
+                    "username": "musicListener123",
+                    "body": "I recommend Redmi Buds 3 Pro to anyone looking for budget-friendly earbuds.",
+                    "userRating": 4.5,
+                    "createdAt": "2023-08-13",
+                    "like": 37,
+                    "dislike": 12
+                },
+                {
+                    "userId": 110,
+                    "username": "audioAppDeveloper",
+                    "body": "Developing audio apps that enhance the Redmi Buds 3 Pro experience is a fun challenge.",
+                    "userRating": 5.0,
+                    "createdAt": "2023-05-05",
+                    "like": 41,
+                    "dislike":14
+                }
+            ]
+        }
+    ]
+}

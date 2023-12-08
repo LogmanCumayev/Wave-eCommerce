@@ -1,0 +1,153 @@
+
+
+.ShopSwiperSection{
+    width: 100%;
+    height: 725px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ShopSwiper{
+    max-width: 1320px;
+    width: 100%;
+    height: 650px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px 2px rgb(231, 226, 226);
+}
+
+.ShopSwiperSlide{
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+/* Slide Content */
+.ShopSwiperSlide-content{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+.ShopSwiperSlide-content-colorName{
+    width: 80%;
+    height: 175px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+/* Slide 1 */
+.ShopSwiperSlide-DeepPurple{
+    font-size: 70px;
+    font-weight: 600;
+    background-image: linear-gradient(90deg,#231f42,#e668e6);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+/* Slide 2 */
+.ShopSwiperSlide-OcenBlue{
+    font-size: 70px;
+    font-weight: 600;
+    background-image: linear-gradient(90deg,#05006d,#41f3f5);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+/* Slide 3 */
+.ShopSwiperSlide-BoraPurple{
+    font-size: 70px;
+    font-weight: 600;
+    background-image: linear-gradient(90deg,#552262,#c791d4);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.ShopSwiperSlide-content-itemName{
+    width: 80%;
+    height: 50px;
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+}
+.ShopSwiperSlide-content-itemName span{
+   font-size: 30px;
+   font-weight: 500;
+}
+.ShopSwiperSlide-content-btn{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    position: relative;
+    z-index: 3;
+}
+/* Slide 1 */
+.ShopSwiperSlide-DeepPurple-btn{
+    padding: 8px 12px 8px 12px;
+    background-image: linear-gradient(90deg,#231f42,#e668e6);
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+/* Slide 2 */
+.ShopSwiperSlide-OcenBlue-btn{
+    padding: 8px 12px 8px 12px;
+    background-image: linear-gradient(90deg,#05006d,#41f3f5);
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+/* Slide 3 */
+.ShopSwiperSlide-BoraPurple-btn{
+    padding: 8px 12px 8px 12px;
+    background-image: linear-gradient(90deg,#552262,#c791d4);
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+/* Slide Image */
+.ShopSwiperSlide-image{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+/* Slide 1 */
+.ShopSwiperSlide-image-iphone14{
+    width: 90%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 200px;
+    overflow: visible;
+}
+/* Slide 2 */
+.ShopSwiperSlide-image-garmin{
+    width: 100%;
+    height: 70%;
+    object-fit: contain;
+}
+.ShopSwiperSlide-image-galaxy{
+    width: 100%;
+    height: 50%;
+    object-fit: contain; 
+}
+/* SLide SVG */
+.ShopSwiperSlide-svg{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    outline: 1px solid black;
+}
+.ShopSwiperSlide-svg svg{
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
+}
